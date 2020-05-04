@@ -1,6 +1,6 @@
 # JavaScript Advanced Functions: Introduction to Map and Reduce Lab
 
-## Learning Goals
+## Learning Goals   
 
 - Define `map`-like function
 - Define `reduce`-like function
